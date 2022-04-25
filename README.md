@@ -8,7 +8,7 @@ I like to write code :desktop_computer: and press the bar 🏋🏽
 
 
 [<img align="left" alt="IlyaPonomarev" width="22px" src="https://www.svgrepo.com/show/271091/telegram.svg" target='_blank'/>][telegram]
-[<img align="left" alt="IlyaPonomarev" width="22px" src="https://www.svgrepo.com/show/138936/linkedin.svg" target='_blank'/>][telegram]
+[<img align="left" alt="IlyaPonomarev" width="22px" src="https://www.svgrepo.com/show/138936/linkedin.svg" target='_blank'/>][linkedin]
 [<img align="left" alt="IlyaPonomarev" width="22px" src="https://www.svgrepo.com/show/303145/instagram-2-1-logo.svg" target='_blank'/>][instagram]
 
 [telegram]: https://t.me/ka1h2h
