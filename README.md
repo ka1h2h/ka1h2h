@@ -1,8 +1,8 @@
-##Hi there :v: I'm Ilya
+## Hi there :v: I'm Ilya
 
 ## I'm frontend developer
 
-- I like to write code &#128187 and press the bar &#127947
+- I like to write code \1F3CB and press the bar \1F4BB
 
 
 
