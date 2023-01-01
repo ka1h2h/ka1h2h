@@ -29,6 +29,7 @@ I like to write code :desktop_computer: and press the bar 🏋🏽
 <img align="left" alt="Figma" width="22px" src="https://www.svgrepo.com/show/353733/figma.svg"/>
 <img align="left" alt="Sass" width="30px" src="https://www.svgrepo.com/show/374061/sass.svg"/>
 
+***
 
 ### In production:
 
