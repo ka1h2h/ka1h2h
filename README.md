@@ -33,7 +33,7 @@ I like to write code :desktop_computer: and press the bar 🏋🏽
 
 ### In production:
 
-<a href="https://uropit.ru/" target="_blanc">uropit</a>
+<a href="https://uropit.ru/" target="_blank">uropit</a>
 
 
 
